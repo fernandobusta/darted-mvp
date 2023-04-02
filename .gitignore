@@ -132,3 +132,5 @@ dmypy.json
 .DS_Storetion
 .DS_Store
 
+# Node modules
+node_modules
