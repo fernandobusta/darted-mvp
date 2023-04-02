@@ -132,7 +132,7 @@ dmypy.json
 .DS_Storetion
 .DS_Store
 
-/backend/backend/static
+backend/backend/static
 /frontend/.env
 # Node modules
 
